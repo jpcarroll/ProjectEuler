@@ -1,2 +1,2 @@
 # ProjectEuler
-Solutions to Project Euler problems in C++ and Python
+Solutions to Project Euler Problems in C++ and Python
